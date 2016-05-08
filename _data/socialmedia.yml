@@ -1,37 +1,37 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
-
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: Facebook
+  url: https://www.facebook.com/Jaagastartup.in
+  class: icon-facebook
+  title: "Like us on Facebook"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: https://twitter.com/JaagaStartup
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Follow us on Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
-
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
+- name: Google+
+  url: https://plus.google.com/+JaagastartupInBangalore
   class: icon-googleplus
-  title: "YouTube Google+"
+  title: "+1 us on Google+"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: GitHub
+  url: http://github.com/jaagastartup
+  class: icon-github
+  title: "Fork us on Github"
+
+# - name: YouTube
+#   url: http://www.youtube.com/PhlowMedia
+#   class: icon-youtube
+#   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
 #   title: ""
+
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
 
 # - name: Instagram
 #   url: http://instagram.com/
