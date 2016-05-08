@@ -13,9 +13,9 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'We are a curated community of entrepreneurs, intrapreneurs and wantrepreneurs who share skills, networks and knowledge. Within a well laid out coworking space with high speed internet, we collaborate and help each other build stronger ventures.'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  title: "Host an Event at Jaaga Startup"
+  url: 'http://jaagastartup.in/event-space/'
+  text: 'We love hosting interesting, creative organisations and events. So if you need a central location to host your audience, do get in touch by clicking the button below! We offer free space to meetups and other free events targeting the entrepreneurial ecosystem.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Download Theme"
