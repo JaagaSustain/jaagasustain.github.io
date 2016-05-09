@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/cowork/"
 ---
 
-We are a curated community of entrepreneurs, intrapreneurs and wantrepreneurs who share skills, networks and knowledge. Within a well laid out coworking space with high speed internet, we collaborate and help each other build stronger ventures.  
+We are a curated entrepreneurial community who share skills, networks and knowledge. Within a well laid out coworking space with high speed internet, we collaborate and help each other build stronger ventures.
 
 <div class="small-12 text-center columns">
 <a class="button large radius alert" href="http://goo.gl/forms/LN1IZjocxk">Join our community</a>
