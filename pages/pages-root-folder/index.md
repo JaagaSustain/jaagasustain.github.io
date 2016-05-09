@@ -10,17 +10,18 @@ header:
 widget1:
   title: "Cowork"
   url: '/cowork/'
-  image: widget-1-302x182.jpg
+  image: cowork-small.jpg
   text: 'We are a curated community of entrepreneurs, intrapreneurs and wantrepreneurs who share skills, networks and knowledge. Within a well laid out coworking space with high speed internet, we collaborate and help each other build stronger ventures.'
 widget2:
   title: "Host an Event"
   url: '/event-space/'
+  image: events-small.jpg
   text: 'We love hosting interesting, creative organisations and events. We offer free space to meetups and other free events targeting the entrepreneurial ecosystem. So if you need a central location to host your audience, do get in touch! '
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Incubate"
   url: '/sustain/'
-  image: widget-github-303x182.jpg
+  image: sustain-small.jpg
   text: "Our Sustain initiative strengthens entrepreneurs using technology to address environmental challenges. We offer free coworking space for 3 months and access to robust technology platforms and experienced mentors."
 #
 # Use the call for action to show a button on the frontpage
