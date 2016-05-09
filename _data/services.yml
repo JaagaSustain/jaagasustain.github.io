@@ -16,3 +16,6 @@
   url: "http://jobs.jaagastartup.in"
   title: "Jobs at our startups"
 
+- name: "Terms and Conditions"
+  url: "/terms/"
+  title: "Terms and Conditions"
