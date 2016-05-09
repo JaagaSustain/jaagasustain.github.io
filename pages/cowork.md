@@ -36,7 +36,6 @@ We offer three membership levels so you can participate as best suits you and yo
     
 </table>
 
-# Benefits
 
 ## Programs
 
