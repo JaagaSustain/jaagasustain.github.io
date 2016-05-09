@@ -11,7 +11,9 @@ We love hosting interesting, creative organisations and events. So if you need a
 
 We offer **free space** to meetups and other free events targeting the entrepreneurial ecosystem. 
 
-{% include alert warning='<a href="https://podio.com/webforms/14807215/992949">Host your event</a>' %}
+<div class="small-12 text-center columns">
+<a class="button large radius alert" href="https://podio.com/webforms/14807215/992949">Host your event</a>
+</div>
 
 # Pricing
 

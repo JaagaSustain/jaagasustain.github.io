@@ -9,7 +9,9 @@ permalink: "/cowork/"
 
 We are a curated community of entrepreneurs, intrapreneurs and wantrepreneurs who share skills, networks and knowledge. Within a well laid out coworking space with high speed internet, we collaborate and help each other build stronger ventures.  
 
-{% include alert warning='<a href="http://goo.gl/forms/LN1IZjocxk">Join our community</a>' %}
+<div class="small-12 text-center columns">
+<a class="button large radius alert" href="http://goo.gl/forms/LN1IZjocxk">Join our community ›</a>
+</div>
 
 >_Eventually everything connects – people, ideas, objects. The quality of the connections is the key to quality per se._
 <cite>Charles Eames</cite>

@@ -13,7 +13,9 @@ Jaaga Startup's Sustain initiative strengthens entrepreneurs using technology to
 - Access to mentors with expertise in sustainability, design, technology and finance
 - Access to partners who can help you reach your impact goals through fundraising and scaling
 
-{% include alert warning='<a href="http://goo.gl/forms/DX7Gjp1vMr">Apply to Sustain</a>' %}
+<div class="small-12 text-center columns">
+<a class="button large radius alert" href="http://goo.gl/forms/DX7Gjp1vMr">Apply to Sustain</a>
+</div>
 
 # Who
 

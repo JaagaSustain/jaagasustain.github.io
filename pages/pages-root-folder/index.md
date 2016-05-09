@@ -16,7 +16,7 @@ widget2:
   title: "Host an Event"
   url: '/events/'
   image: events-small.png
-  text: 'We love hosting interesting, creative organisations and events. We offer free space to meetups and other free events targeting the entrepreneurial ecosystem. So if you need a central location to host your audience, do get in touch!'
+  text: 'We love hosting interesting, creative organisations and events. We offer free space to meetups and other free events targeting the entrepreneurial ecosystem. Get in touch if you need a central location to host your audience!'
 widget3:
   title: "Incubate"
   url: '/sustain/'
