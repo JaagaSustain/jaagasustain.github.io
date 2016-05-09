@@ -22,8 +22,8 @@ Jaaga Startup's Sustain initiative strengthens entrepreneurs using technology to
 We are open to early stage initiatives seeking to use technology to create demonstrable environmental impact. We will guide entrepreneurs through the stages of:
 
 1. **Primary research**
-- **Prototyping**
-- **Piloting**
+2. **Prototyping**
+3. **Piloting**
 
 # How
 
@@ -55,4 +55,4 @@ Over and beyond the benefits mentioned above,
 
 ---
 
-_The Sustain initiative builds on learnings from our design research project, [Project Sphere](http://projectsphere.jaagastartup.in).
+_The Sustain initiative builds on learnings from our design research project, [Project Sphere](http://projectsphere.jaagastartup.in)._
