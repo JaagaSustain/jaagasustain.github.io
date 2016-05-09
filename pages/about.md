@@ -12,8 +12,6 @@ Jaaga Startup is part of the [Jaaga](http://jaaga.in) family and responds to the
 
 # Our Team
 
-![Kupendra](/images/kupendra.jpg)
-
 **[Kupendra](https://www.facebook.com/kupendra.kumar.90)** manages our coworking facilities. Kupendra is from [Bangalore, Karnataka](https://goo.gl/maps/SPB766JUkvQ2).
 
 ![Farish](/images/farish.png)
