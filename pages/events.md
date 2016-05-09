@@ -11,11 +11,9 @@ We love hosting interesting, creative organisations and events. So if you need a
 
 We offer **free space** to meetups and other free events targeting the entrepreneurial ecosystem. 
 
-<center>
-<a target="_blank" href="http://www.jaagastartup.in/event-form/" class="btn">Host your event</a>
-</center>
+{% include alert warning='<a href="https://podio.com/webforms/14807215/992949">Host your event</a>' %}
 
-#Pricing
+# Pricing
 
 We have a choice of three spaces with different capacities and purposes as shown in the table below. All prices are indicative daily rates.
 
@@ -43,30 +41,19 @@ We have a choice of three spaces with different capacities and purposes as shown
     </tr>
 </table>
 
-#How?
-
-Fill out our [application form](http://www.jaagastartup.in/event-form/) by clicking on the button at the top of this page if:
-
-- Your event targets one of the following communities: entrepreneurial, creative or civic minded
-- Your event fits into one of the schedules listed above
-- You agree with the terms listed below
-
-Once you have applied, we will review and get back in touch within 48 hours.
-
 ---
 
-#Right to Use
+# Right to Use
 
 - You retain the rights to all content created and presented by you at Jaaga Startup. 
 - However, Jaaga Startup has the right to use photos, videos, audio or any form of documentation of your event and its related content on its website, publications and any other means for promoting itself.
 - Conversely, you are welcome to use any documentation tools to promote your event at Jaaga Startup with due credit given wherever applicable. 
 
-#Terms
+# Terms
 
 - We will provide chairs, tables and basic AV equipment as required. Day of event operations and additional supplies will be your responsibility.
 - You need to make a full advance payment to block a space. 
 - Damage to Jaaga Startup equipment, building or property will be charged to you.
-- Cleaning charges are applicable for all free events unless hosts ensure a clean space during and after event. 
 - When you leave you must clear the space provided and the premises such that it is as good (if not better) than how found it.
 - We do not share our mailing list but are happy to share event details with our communities over email and social media.
 - Nothing may be hung or posted on walls, windows, or other surfaces without prior consent from us.
