@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image: logo.jpg
+  image-fullwidth: logo.jpg
 widget1:
   title: "Cowork"
   url: '/cowork/'
