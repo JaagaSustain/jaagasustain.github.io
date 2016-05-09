@@ -13,10 +13,6 @@ We are a curated community of entrepreneurs, intrapreneurs and wantrepreneurs wh
 <a href="http://goo.gl/forms/LN1IZjocxk" class="btn">Join our Community</a>
 </center>
 
->_Eventually everything connects – people, ideas, objects. The quality of the connections is the key to quality per se._
-
->Charles Eames
-
 #Pricing
 
 We offer three membership levels so you can participate as best suits you and your budget. All membership plans are billed per person per month. Service tax at 14.5% is chargeable extra.
