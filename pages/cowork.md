@@ -13,10 +13,6 @@ We are a curated community of entrepreneurs, intrapreneurs and wantrepreneurs wh
 <a class="button large radius alert" href="http://goo.gl/forms/LN1IZjocxk">Join our community</a>
 </div>
 
-
->_Eventually everything connects – people, ideas, objects. The quality of the connections is the key to quality per se._
-<cite>Charles Eames</cite>
-
 # Pricing
 
 We offer three membership levels so you can participate as best suits you and your budget. All membership plans are billed per person per month. Service tax at 14.5% is chargeable extra.
@@ -62,3 +58,7 @@ We offer three membership levels so you can participate as best suits you and yo
 - Multiple meeting + ideation spaces and a dedicated conference room
 - Lots of open spaces - lounge, dining area, terraces (more breathing room than any other coworking space in Bangalore!)
 - Kitchen with microwave, fridge, coffeemaker and unlimited tea/coffee/purified drinking water
+
+
+>_Eventually everything connects – people, ideas, objects. The quality of the connections is the key to quality per se._
+<cite>Charles Eames</cite>
