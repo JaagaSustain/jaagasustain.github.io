@@ -10,17 +10,17 @@ header:
 widget1:
   title: "Cowork"
   url: '/cowork/'
-  image: cowork-small.jpg
+  image: cowork-small.png
   text: 'We are a curated community of entrepreneurs, intrapreneurs and wantrepreneurs who share skills, networks and knowledge. Within a well laid out coworking space with high speed internet, we collaborate and help each other build stronger ventures.'
 widget2:
   title: "Host an Event"
   url: '/events/'
-  image: events-small.jpg
+  image: events-small.png
   text: 'We love hosting interesting, creative organisations and events. We offer free space to meetups and other free events targeting the entrepreneurial ecosystem. So if you need a central location to host your audience, do get in touch!'
 widget3:
   title: "Incubate"
   url: '/sustain/'
-  image: sustain-small.jpg
+  image: sustain-small.png
   text: "Our Sustain initiative strengthens entrepreneurs using technology to address environmental challenges. We offer free coworking space for 3 months and access to robust technology platforms and experienced mentors."
 #
 # Use the call for action to show a button on the frontpage
