@@ -20,7 +20,7 @@ Jaaga Startup is part of the [Jaaga](http://jaaga.in) family and responds to the
 
 ![Sarah](/images/sarah.png)
 
-**[Sarah](https://twitter.com/sarahdpatel)** advices us on strategy and shapes financial plans for us and our startups. Sarah is from [Boston, Massachusetts](https://goo.gl/maps/aYCEYntd3tA2).
+**[Sarah](https://twitter.com/sarahdpatel)** advises us on strategy and shapes financial plans for us and our startups. Sarah is from [Boston, Massachusetts](https://goo.gl/maps/aYCEYntd3tA2).
 
 ![Archana](/images/archana.png)
 
