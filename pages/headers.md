@@ -4,7 +4,6 @@ subheadline: "Header"
 title: "Jaaga Startup"
 teaser: "India's oldest collaborative coworking community"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/headers/"
 ---
 <ul>

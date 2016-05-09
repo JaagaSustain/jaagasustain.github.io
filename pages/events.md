@@ -1,25 +1,10 @@
 ---
 layout: page
-#
-# Content
-#
-subheadline: ""
 title: "Host an event at Jaaga Startup"
+meta_title: "Events"
+subheadline: ""
 teaser: ""
-meta_description: ""
-categories:
-  - 
-tags:
-  - 
-#
-# Styling
-#
-image:
-  header: ""
-  thumb: ""
-  homepage: ""
-  caption: ""
-  url: ""
+permalink: "/events/"
 ---
 
 We love hosting interesting, creative organisations and events. So if you need a central location to host your audience, do get in touch by clicking the button below! 

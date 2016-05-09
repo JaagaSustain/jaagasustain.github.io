@@ -1,25 +1,10 @@
 ---
 layout: page
-#
-# Content
-#
-subheadline: ""
 title: "Cowork at Jaaga Startup"
-teaser: "India's oldest collaborative coworking community"
-meta_description: ""
-categories:
-  - 
-tags:
-  - 
-#
-# Styling
-#
-image:
-  header: ""
-  thumb: ""
-  homepage: ""
-  caption: ""
-  url: ""
+meta_title: "Coworking"
+subheadline: ""
+teaser: ""
+permalink: "/cowork/"
 ---
 
 We are a curated community of entrepreneurs, intrapreneurs and wantrepreneurs who share skills, networks and knowledge. Within a well laid out coworking space with high speed internet, we collaborate and help each other build stronger ventures.  
