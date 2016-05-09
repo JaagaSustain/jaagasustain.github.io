@@ -43,8 +43,6 @@ We have a choice of three spaces with different capacities and purposes as shown
     </tr>
 </table>
 
----
-
 # Right to Use
 
 - You retain the rights to all content created and presented by you at Jaaga Startup. 
