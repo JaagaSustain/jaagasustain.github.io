@@ -5,8 +5,10 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image-fullwidth: logo.jpg
+
+image:
+  title: logo.jpg
+
 widget1:
   title: "Cowork"
   url: '/cowork/'
