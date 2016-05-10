@@ -20,6 +20,7 @@ Jaaga Startup is part of the [Jaaga](http://jaaga.in) family and responds to the
   	<b><a href="https://www.facebook.com/kupendra.kumar.90">Kupendra</a></b> manages our coworking facilities. Kupendra is from Bangalore, Karnataka.
   </div>
 </div>
+<br>
 
 <div class="row">
   <div class="large-6 columns">
@@ -29,6 +30,7 @@ Jaaga Startup is part of the [Jaaga](http://jaaga.in) family and responds to the
   	<b><a href="https://www.linkedin.com/in/farishcv">Farish</a></b> drives engagement and programs for our coworking community. Farish is from Kozhikode, Kerala.
   </div>
 </div>
+<br>
 
 <div class="row">
   <div class="large-6 columns">
@@ -38,6 +40,7 @@ Jaaga Startup is part of the [Jaaga](http://jaaga.in) family and responds to the
   	<b><a href="https://in.linkedin.com/in/sarah-donnelly-patel-b69aa01">Sarah</a></b> advises us on strategy and shapes financial plans for us and our startups. Sarah is from Boston, Massachusetts.
   </div>
 </div>
+<br>
 
 <div class="row">
   <div class="large-6 columns">
@@ -47,6 +50,7 @@ Jaaga Startup is part of the [Jaaga](http://jaaga.in) family and responds to the
   	<b><a href="https://in.linkedin.com/in/archana-prasad-5312531">Archana</a></b> founded Jaaga in 2009 and helps guide the vision for the organisation. Archana is from Bangalore, Karnataka.
   </div>
 </div>
+<br>
 
 <div class="row">
   <div class="large-6 columns">
