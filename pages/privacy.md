@@ -21,7 +21,7 @@ If You continue using our services, You agree to adhere and be bound by the term
 
 For the purpose of this Privacy Policy, the term 'Us' or 'We' refers to Jaaga Startup and the term 'You' or ‘User’ refers to the end user.
 
-#### Collection of information
+### Collection of information
 You can visit our website without providing any details. However, in order to use our services and utilize the facilities made available and as an initial requirement, we will collect some basic information from You, including your full name, complete mailing address including Zip Code, phone number, e-mail address, date of birth, nationality, skills and sectors, intended problem areas, team identities photograph and such other details as required by the registration form. We may also require You to send to us such other information as may be necessary. In addition thereto, We may also require you to provide Us with certain other details including your location, demographic details, profile of the intended work, business idea etc. We indicate fields that are mandatorily required to be filled and fields that are optional. The Users may decide whether or not to provide such information to Us.
 
 We may also collect Your responses to online polls, ads, surveys, electronic newsletters and questionnaires. This information helps us improve your experience with better services and opportunities. Jaaga Startup may collect information from the user/member at various stages beginning with the first access to the website and/or creation of profile. 
@@ -30,7 +30,7 @@ Any information collected by way of an IP Address and/or cookie technologies is 
 
 Jaaga Startup shall be the sole owner of the information collected.
 
-#### Use of information
+### Use of information
 * Upon receipt of such personal and non-personal information, it no longer remains anonymous to Us. Please note that we at Jaaga Startup do not divulge, rent-out or sell information provided on our website to advertisers or any other third parties for profit. 
 - The information provided by You is retained by Us as part of our internal record keeping, and used to improve services provided by Us or through our affiliates, for market research, data analysis, resolution of problems and disputes, customise experience etc.
 - We may provide aggregate and/or anonymised information about our Users to certain persons/entities, like angel funds, venture capitalists, individual investors, advertisers etc., to help reach the kind of audience they want to target. However, We will not share any information pertaining to the problem statements, team information and identities etc., without prior information to and consent from You. 
@@ -44,10 +44,10 @@ Jaaga Startup shall be the sole owner of the information collected.
 
 We shall endevour to safeguard all information collected, except, if such disclosure is mandated by law, or a law enforcement agency, legal authority etc. Otherwise than as stated above, we shall not use information provided by you without your prior consent. 
 
-#### Change of user information
+### Change of user information
 You are given the option to change any information provided by you. You may at any time discontinue our services by de activating your profile. Upon such discontinuation, Your information is no longer available to the other co-workers, advertisers, funds or affiliates. 
 
-#### Protection of user information and information safety
+### Protection of user information and information safety
 We have the following security procedures and software in place to ensure that your personal information is kept confidential:
 
 We and our affiliates will share/sell some or all of the collected information with another business entity should We (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this Privacy Policy with respect to all the information collected.
@@ -60,10 +60,10 @@ Servers that store Your information are kept in a safe and proper place.
 
 Any information shared with relevant partners shall not be identifiable to any specific start-up or individuals but We may provide them with aggregate and/or anonymised information about our Users to help service providers reach the kind of audience they want to target. We may make use of the information We have collected from You to enable Us to comply with our partners' wishes by sharing their services with the target audience.
 
-#### Third party links
+### Third party links
 This Privacy Policy is only applicable for the website owned and operated by Jaaga Startup. There maybe third party links available on our website. We do not endorse those websites nor the content therein. Please familiarise yourself with the terms and conditions of use and privacy policy of such websites. We cannot be responsible for your accessing or usage of such websites. If you are clicking on third party links, please exercise caution and ensure that you carefully read the privacy policies and terms of use of these websites before proceeding. 
 
-#### Disclaimer
+### Disclaimer
 We may use third party platforms for your registration and other requirements. While we have made all efforts to secure the information you provide, we urge you to peruse the privacy policy and terms of use of such other platforms before providing any information on such platform/s. We disclaim any responsibility for any action/s taken by such platforms and shall not be bound by their actions or be responsible for the same. 
 
 In particular, note that the some of our features run on [community.jaagastartup.in](http://community.jaagastartup.in) and you might be subjected to cookies that Podio uses on its site. You can read more about Podio’s data collection practices and privacy policy on its web site.
