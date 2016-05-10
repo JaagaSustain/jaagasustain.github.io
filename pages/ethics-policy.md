@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/ethics-policy/"
 ---
-==*Last modified: March 26, 2015*==
+== *Last modified: March 26, 2015* ==
 
 [Download PDF version](https://drive.google.com/file/d/0B6JZdk8HO78jVEUtUEdZeFhLN3M/view?usp=sharing)
 

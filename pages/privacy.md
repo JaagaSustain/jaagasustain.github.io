@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/privacy/"
 ---
-==*Last modified: March 8, 2016*==
+== *Last modified: March 8, 2016* ==
 
 [Download PDF version](https://drive.google.com/file/d/0B6JZdk8HO78jemc4enNhQ2pqNFk/view?usp=sharing)
 
