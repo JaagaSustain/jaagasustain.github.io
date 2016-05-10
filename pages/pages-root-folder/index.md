@@ -13,7 +13,7 @@ widget1:
   title: "Cowork"
   url: '/cowork/'
   image: cowork-small.png
-  text: 'We are a curated entrepreneurial community who share skills, networks and knowledge within a well laid out coworking space with high speed internet. Join us to collaborate and help each other build stronger ventures.'
+  text: 'We are a curated entrepreneurial community who share skills, networks and knowledge within a well laid out coworking space in central Bangalore. Join us to collaborate and help each other build stronger ventures.'
 widget2:
   title: "Host an Event"
   url: '/events/'
