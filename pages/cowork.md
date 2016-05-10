@@ -13,7 +13,7 @@ We are a curated entrepreneurial community who share skills, networks and knowle
 <a class="button large radius alert" href="http://goo.gl/forms/LN1IZjocxk">Join our community</a>
 </div>
 
-# Pricing
+## Pricing
 
 We offer three membership levels so you can participate as best suits you and your budget. All membership plans are billed per person per month. Service tax at 14.5% is chargeable extra.
 

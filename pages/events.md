@@ -15,7 +15,7 @@ We offer **free space** to meetups and other free events targeting the entrepren
 <a class="button large radius alert" href="https://podio.com/webforms/14807215/992949">Host your event</a>
 </div>
 
-# Pricing
+## Pricing
 
 We have a choice of three spaces with different capacities and purposes as shown in the table below. All prices are indicative daily rates.
 
@@ -43,13 +43,13 @@ We have a choice of three spaces with different capacities and purposes as shown
     </tr>
 </table>
 
-# Right to Use
+## Right to Use
 
 - You retain the rights to all content created and presented by you at Jaaga Startup. 
 - However, Jaaga Startup has the right to use photos, videos, audio or any form of documentation of your event and its related content on its website, publications and any other means for promoting itself.
 - Conversely, you are welcome to use any documentation tools to promote your event at Jaaga Startup with due credit given wherever applicable. 
 
-# Terms
+## Terms
 
 - We will provide chairs, tables and basic AV equipment as required. Day of event operations and additional supplies will be your responsibility.
 - You need to make a full advance payment to block a space. 
