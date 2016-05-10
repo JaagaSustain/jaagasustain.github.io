@@ -36,7 +36,7 @@ widget3:
 #
 callforaction:
   url: /cowork/
-  text: Join our Jaagarnauts ›
+  text: Explore Coworking
   style: alert
 permalink: /index.html
 #
