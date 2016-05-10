@@ -6,7 +6,8 @@ subheadline: ""
 teaser: ""
 permalink: "/terms/"
 ---
-== *Last modified: March 8, 2016* ==
+
+{% include alert text='Last modified: March 8, 2016' %}
 
 [Download PDF version](https://drive.google.com/file/d/0B6JZdk8HO78jS0IzQXB6OENGZXc/view?usp=sharing)
 
