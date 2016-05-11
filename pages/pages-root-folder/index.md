@@ -45,3 +45,24 @@ permalink: /index.html
 #
 homepage: true
 ---
+# Coworking Pricing
+We offer three membership levels so you can participate as best suits you and your budget. All membership plans are billed per person per month. Service tax at 14.5% is chargeable extra.
+
+<table>
+    <tr>
+        <td><b>Gold Membership</b></td>
+        <td>Dedicated seating + locker for teams in a room</td>
+        <td>₹5000</td>
+    </tr>   
+    <tr>
+        <td><b>Silver Membership</b></td>
+        <td>Flexible seating for a whole month</td>
+        <td>₹4000</td>
+    </tr>
+    <tr>
+        <td><b>Friend Membership</b></td>
+        <td>Flexible seating for 5 working days in a month and unlimited weekends</td>
+        <td>₹2000</td>
+    </tr>
+    
+</table>
