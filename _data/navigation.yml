@@ -13,15 +13,7 @@
 - title: "Sustain"
   url: "/sustain/"
   side: left
-
-- title: "Gallery"
-  url: "http://gallery.jaagastartup.in"
-  side: left
-
-- title: "Blog"
-  url: "http://blog.jaagastartup.in"
-  side: left
-
+  
 - title: "About"
   url: "/about/"
   side: left
@@ -29,6 +21,14 @@
 - title: "Contact"
   url: "/contact/"
   side: left
+
+- title: "Blog"
+  url: "http://blog.jaagastartup.in"
+  side: right
+
+- title: "Gallery"
+  url: "http://gallery.jaagastartup.in"
+  side: right
 
 - title: "Sign in"
   url: "http://community.jaagastartup.in"
