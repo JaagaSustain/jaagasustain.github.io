@@ -64,9 +64,10 @@ We have a choice of three spaces with different capacities and purposes as shown
     </tr>
 </table>
 
+## Upcoming Events
 <!-- Responsive iFrame -->
 <div class="responsive-iframe-container">
-    <iframe src="https://calendar.google.com/calendar/embed?title=Upcoming%20Events&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=400&amp;wkst=2&amp;bgcolor=%23ffffff&amp;src=jaaga.in_m5ramuunb38760a2acnlbsoctc%40group.calendar.google.com&amp;color=%23691426&amp;ctz=Asia%2FCalcutta" style="border-width:0" width="400" height="400" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=jaaga.in_m5ramuunb38760a2acnlbsoctc%40group.calendar.google.com&amp;color=%23691426&amp;ctz=Asia%2FCalcutta" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ## Right to Use
