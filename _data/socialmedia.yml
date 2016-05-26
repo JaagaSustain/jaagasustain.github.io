@@ -11,12 +11,12 @@
 - name: Google+
   url: https://plus.google.com/+JaagastartupInBangalore
   class: icon-googleplus
-  title: "+1 us on Google+"
+  title: "Follow us on Google+"
 
 - name: YouTube
   url: https://www.youtube.com/c/JaagaStartupInBangalore
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Subscribe to our YouTube channel"
 
 - name: GitHub
   url: http://github.com/jaagastartup
