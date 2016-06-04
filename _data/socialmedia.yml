@@ -13,11 +13,6 @@
   class: icon-googleplus
   title: "Follow us on Google+"
 
-  - name: Instagram
-    url: https://www.instagram.com/JaagaStartup
-    class: icon-instagram
-    title: "Follow us on Instagram"
-
 - name: YouTube
   url: https://www.youtube.com/c/JaagaStartupInBangalore
   class: icon-youtube
@@ -38,10 +33,10 @@
 #   class: icon-cloud
 #   title: "Mixe, was sonst?"
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+ - name: Instagram
+   url: https://www.instagram.com/JaagaStartup
+   class: icon-instagram
+   title: "Follow us on Instagram"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
