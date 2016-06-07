@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Events at Jaaga Startup"
-meta_title: "Events"
+meta_title: "Events - Jaaga Startup"
 subheadline: ""
 teaser: ""
 permalink: "/events/"
@@ -46,21 +46,21 @@ We have a choice of three spaces with different capacities and purposes as shown
         <td>Workshops, launches</td>
         <td>80 people</td>
         <td>Weekends and holidays</td>
-        <td>₹ 10000</td>
+        <td>₹10000</td>
     </tr>
     <tr>
         <td><b>Terrace</b></td>
         <td>Food and art</td>
         <td>40 people</td>
         <td>Weekends and holidays</td>
-        <td>₹ 5000</td>
+        <td>₹5000</td>
     </tr>
     <tr>
         <td><b>Lounge</b></td>
         <td>Workshops, meetups</td>
         <td>30 people</td>
         <td>Weekday evenings, weekends and holidays</td>
-        <td>₹ 5000</td>
+        <td>₹5000</td>
     </tr>
 </table>
 

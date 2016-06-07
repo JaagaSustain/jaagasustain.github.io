@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Cowork at Jaaga Startup"
-meta_title: "Coworking"
+meta_title: "Coworking - Jaaga Startup"
 subheadline: ""
 teaser: ""
 permalink: "/cowork/"
@@ -33,7 +33,7 @@ We offer three membership levels so you can participate as best suits you and yo
         <td>Flexible seating for 5 working days in a month and unlimited weekends</td>
         <td>₹2000</td>
     </tr>
-    
+
 </table>
 
 

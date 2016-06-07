@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Incubate at Jaaga Startup"
-meta_title: "Sustain"
+meta_title: "Sustain - Jaaga Startup"
 subheadline: ""
 teaser: ""
 permalink: "/sustain/"
@@ -49,7 +49,7 @@ Over and beyond the benefits mentioned above,
 
 - You will need to commit full-time (40hrs/week) to your initiative.
 - You will need to be based in Bangalore and work out of our coworking space.
-- You will need to share your research findings and results from prototyping and piloting under the [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/4.0/). 
+- You will need to share your research findings and results from prototyping and piloting under the [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/4.0/).
 - You will need to agree milestones and deliverables with the Jaaga Startup team. Meeting these milestones will form the basis for continued (free) membership.
 - You will need to document your progress regularly via blog posts or other media, as agreed with the Jaaga Startup team.
 

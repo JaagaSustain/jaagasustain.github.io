@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Us"
-meta_title: "About us"
+meta_title: "About us - Jaaga Startup"
 subheadline: ""
 teaser: ""
 permalink: "/about/"

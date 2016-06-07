@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Host an event at Jaaga Startup"
-meta_title: "Event Host Form"
+meta_title: "Event Host Form - Jaaga Startup"
 subheadline: ""
 teaser: ""
 permalink: "/event-form/"

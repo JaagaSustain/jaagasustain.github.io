@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact us"
+meta_title: "Contact us - Jaaga Startup"
 subheadline: ""
 teaser: "We are easy to reach!"
 permalink: "/contact/"
