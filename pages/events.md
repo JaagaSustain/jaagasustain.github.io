@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Host an event at Jaaga Startup"
+title: "Events at Jaaga Startup"
 meta_title: "Events"
 subheadline: ""
 teaser: ""
@@ -8,7 +8,7 @@ permalink: "/events/"
 ---
 <style>
 /* Responsive iFrame */
- 
+
 .responsive-iframe-container {
     position: relative;
     padding-bottom: 56.25%;
@@ -16,7 +16,7 @@ permalink: "/events/"
     height: 0;
     overflow: hidden;
 }
- 
+
 .responsive-iframe-container iframe,   
 .vresponsive-iframe-container object,  
 .vresponsive-iframe-container embed {
@@ -28,9 +28,9 @@ permalink: "/events/"
 }
 </style>
 
-We love hosting interesting, creative organisations and events. So if you need a central location to host your audience, do get in touch by clicking the button below! 
+We love hosting interesting, creative organisations and events. So if you need a central location to host your audience, do get in touch by clicking the button below!
 
-We offer **free space** to meetups and other free events targeting the entrepreneurial ecosystem. 
+We offer **free space** to meetups and other free events targeting the entrepreneurial ecosystem.
 
 <div class="small-12 text-center columns">
 <a class="button large radius alert" href="https://podio.com/webforms/14807215/992949">Host your event</a>
@@ -72,14 +72,14 @@ We have a choice of three spaces with different capacities and purposes as shown
 
 ## Right to Use
 
-- You retain the rights to all content created and presented by you at Jaaga Startup. 
+- You retain the rights to all content created and presented by you at Jaaga Startup.
 - However, Jaaga Startup has the right to use photos, videos, audio or any form of documentation of your event and its related content on its website, publications and any other means for promoting itself.
-- Conversely, you are welcome to use any documentation tools to promote your event at Jaaga Startup with due credit given wherever applicable. 
+- Conversely, you are welcome to use any documentation tools to promote your event at Jaaga Startup with due credit given wherever applicable.
 
 ## Terms
 
 - We will provide chairs, tables and basic AV equipment as required. Day of event operations and additional supplies will be your responsibility.
-- You need to make a full advance payment to block a space. 
+- You need to make a full advance payment to block a space.
 - Damage to Jaaga Startup equipment, building or property will be charged to you.
 - When you leave you must clear the space provided and the premises such that it is as good (if not better) than how found it.
 - We do not share our mailing list but are happy to share event details with our communities over email and social media.
