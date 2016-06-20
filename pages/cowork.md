@@ -15,7 +15,7 @@ We are a curated entrepreneurial community who share skills, networks and knowle
 
 ## Pricing
 
-We offer three membership levels so you can participate as best suits you and your budget. All membership plans are billed per person per month. Service tax at 14.5% is chargeable extra.
+We offer three membership levels so you can participate as best suits you and your budget. All membership plans are billed per person per month. Service tax at 15% is chargeable extra.
 
 <table>
     <tr>
