@@ -74,7 +74,6 @@ We have a choice of three spaces with different capacities and purposes as shown
   	<a href="http://iamai.in/events/appfest"><img src="{{ site.url }}{{ site.baseurl }}/images/IAMAI-appfest.gif" alt="IAMAI App Fest.gif"></a>
 </div>
 
-
 ## Right to Use
 
 - You retain the rights to all content created and presented by you at Jaaga Startup.
