@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/cowork/"
 ---
 
-# Coworking is about people, not space. It's about collaboration, not cubicles. It's about the journey, not the destination.
+> Coworking is about people, not space. It's about collaboration, not cubicles. It's about the journey, not the destination.
 
 We are a curated entrepreneurial community who share skills, networks and knowledge. Within a well laid out coworking space with high speed internet, we collaborate and help each other build stronger ventures.
 
