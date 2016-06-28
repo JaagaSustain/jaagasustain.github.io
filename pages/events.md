@@ -86,7 +86,7 @@ We have a choice of three spaces with different capacities and purposes as shown
 - Nothing may be hung or posted on walls, windows, or other surfaces without prior consent from us.
 - Our kitchen space is shared and you are welcome to make use of it.  Please note, we ask that everyone clean up after themselves (put trash in bins, wash your own dishes) and leave the space as you found it.  We also ask that food be restricted to the kitchen or terrace areas to avoid attracting unwanted critters.
 - Our staff will help you (to a limited extent) with arranging the space. Do NOT tamper with the electricity connections, lights, sound, walls and any other Jaaga Startup facilities. Contact your Jaaga Startup event contact to help you on this.
-- We have a projector, basic sound system, and WiFi access that you may use during your event with advance permission.  We ask that you bring your own laptop for use with the projector.  It is your responsibility as an event organizer to come over, check our equipment and facilities and make arrangements from outside well in advance for anything additional or specialized that you may need.
+- We have a projector, basic sound system, and WiFi access that you may use during your event. We ask that you bring your own laptop for use with the projector. It is your responsibility as an event organizer to come over, check our equipment and facilities and make arrangements from outside well in advance for anything additional or specialized that you may need.
 
 <br/>
 
