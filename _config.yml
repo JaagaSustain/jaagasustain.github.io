@@ -8,24 +8,24 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Jaaga Startup'
+title: 'Jaaga Sustain'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "India's oldest collaborative coworking space"
+slogan: "Solving environmental challenges at scale through entrepreneurs."
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Jaaga Startup is India's oldest coworking community. We are <a href='https://goo.gl/maps/pfCoZAT3kXA2' target='_blank'>conveniently located</a> in central Bangalore on Richmond Road."
+description: "We help entrepreneurs address environmental challenges using technology-enabled products and processes."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Built with &hearts; using <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a></p><p><a href="/terms/">Terms and Conditions</a></p>'
 
 # Main author of the website
 # See > authors.yml
-author: Jaaga Startup
+author: Jaaga Sustain
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://jaagastartup.in'
+url: 'http://jaagasustain.in'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://jaagastartup.in/images/'
+urlimg: 'http://jaagasustain.in/images/'
 
 
 # Logo size is 600x80 pixels
@@ -110,7 +110,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Jaaga Startup     # Default author for pages
+      author: Jaaga Sustain     # Default author for pages
   -
     scope:
       path: ''
@@ -119,7 +119,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Jaaga Startup     # Default author for posts
+      author: Jaaga Sustain     # Default author for posts
 
 
 
