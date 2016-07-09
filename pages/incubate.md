@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Incubate at Jaaga Startup"
-meta_title: "Sustain - Jaaga Startup"
+title: "Incubate at Jaaga Sustain"
+meta_title: "Incubation - Jaaga Sustain"
 subheadline: ""
 teaser: ""
-permalink: "/sustain/"
+permalink: "/incubate/"
 ---
 
-Jaaga Startup's Sustain initiative strengthens entrepreneurs using technology to address environmental challenges. The program offers:
+Jaaga Sustain incubates entrepreneurs using technology to address environmental challenges. The program offers:
 
 - Free [coworking space](/cowork/) for 3 months and then reviewed as per progress
 - Access to mentors with expertise in sustainability, design, technology and finance

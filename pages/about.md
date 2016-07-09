@@ -21,7 +21,7 @@ permalink: "/about/"
 
 <div class="row">
   <div class="large-6 columns">
-  	<img src="{{ site.url }}{{ site.baseurl }}/images/jay.png" alt="Jay">
+  	<img src="{{ site.url }}{{ site.baseurl }}/images/jay.jpg" alt="Jay">
   </div>
   <div class="large-6 columns">
   	<b><a href="">Jay</a></b> helped co-found Jaaga Sustain and brings over 20 years of innovation and technology experience in leadership roles at large multinational companies. Jay acts as virtaul-CTO to all incubated ventures and leads product architecture at Jaaga Sustain.
@@ -31,7 +31,7 @@ permalink: "/about/"
 
 <div class="row">
   <div class="large-6 columns">
-  	<img src="{{ site.url }}{{ site.baseurl }}/images/jai.png" alt="Jai">
+  	<img src="{{ site.url }}{{ site.baseurl }}/images/jai.jpg" alt="Jai">
   </div>
   <div class="large-6 columns">
   	<b><a href="">Jai</a></b> brings much-needed financial acumen to Jaaga Sustain. He helps organisations express environmental impact in terms of economic value and vice versa. Jai acts as virtual-CFO to all incubated ventures.
