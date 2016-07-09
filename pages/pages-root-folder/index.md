@@ -10,21 +10,21 @@ image:
   title: logo.jpg
 
 widget1:
-  title: "Cowork"
-  url: '/cowork/'
-  image: cowork-small.png
-  text: 'We are a curated entrepreneurial community who share skills, networks and knowledge within a well laid out coworking space in central Bangalore. Join us to collaborate and help each other build stronger ventures.'
-widget2:
-  title: "Host an Event"
-  url: '/events/'
-  image: events-small.png
-  text: 'We love hosting interesting, creative organisations and events. We offer free space to meetups and other free events targeting the entrepreneurial ecosystem. Get in touch if you need a central location to host your audience!'
-widget3:
   title: "Incubate"
-  url: '/sustain/'
-  image: sustain-small.png
+  url: '/incubate/'
+  image: incubate-small.png
   text: "We support entrepreneurs using technology to address environmental challenges with free coworking space and access to technology platforms, mentors and partners. Apply to solve real world problems around us."
-#
+widget2:
+  title: "Consult"
+  url: '/consult/'
+  image: consult-small.png
+  text: 'We develop innovative products and processes to help realise a more sustainable world. Get in touch to find out how we can help you reduce your environmental impact while gaining economic value.'
+widget3:
+  title: "Partner"
+  url: '/partner/'
+  image: partner-small.png
+  text: 'We partner with incubators, accelerators and other innovation centres and help them implement robust innovation management practices. We bring experience of helping mature over 50 early stage innovations.'
+
 # Use the call for action to show a button on the frontpage
 #
 # To make internal links, just use a permalink like this
@@ -35,8 +35,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: /cowork/
-  text: Explore Coworking
+  url: /incubate/
+  text: Incubate at Sustain
   style: alert
 permalink: /index.html
 #
@@ -47,10 +47,6 @@ homepage: true
 ---
 
 <div class="small-6 large-centered columns">
-	<h3 id="coworking-pricing" align="center">Pick a membership that suits you</h3>
-	<br>
-
-	<table><tbody><tr><td><b>Gold Membership</b></td><td>Dedicated seating + locker for teams in a room</td><td>₹5000</td></tr><tr><td><b>Silver Membership</b></td><td>Flexible seating for a whole month</td><td>₹4000</td></tr><tr><td><b>Friend Membership</b></td><td>Flexible seating for 5 working days in a month, unlimited mornings/evenings (pre-11am, post 6pm)  and unlimited weekends</td><td>₹2000</td></tr></tbody></table>
-
+	<h3 align="center">Solve problems that really matter.</h3>
 </div>
 

@@ -1,62 +1,41 @@
 ---
 layout: page
 title: "About Us"
-meta_title: "About us - Jaaga Startup"
+meta_title: "About us - Jaaga Sustain"
 subheadline: ""
 teaser: ""
 permalink: "/about/"
 ---
 
-Jaaga Startup is part of the [Jaaga](http://jaaga.in) family and responds to the needs of collaborative space, networking and mentorship amongst new entrepreneurs. We curate our community to create a balance of skills, sectors and networks to help each other build stronger ventures.
-
-
 ## Our Team
-
-<div class="row">
-  <div class="large-6 columns">
-  	<img src="{{ site.url }}{{ site.baseurl }}/images/kupendra.png" alt="Kupendra">
-  </div>
-  <div class="large-6 columns">
-  	<b><a href="https://www.facebook.com/kupendra.kumar.90">Kupendra</a></b> manages our coworking facilities. Kupendra is from Bangalore, Karnataka.
-  </div>
-</div>
-<br>
-
-<div class="row">
-  <div class="large-6 columns">
-  	<img src="{{ site.url }}{{ site.baseurl }}/images/farish.png" alt="Farish">
-  </div>
-  <div class="large-6 columns">
-  	<b><a href="https://www.linkedin.com/in/farishcv">Farish</a></b> drives engagement and programs for our coworking community. Farish is from Kozhikode, Kerala.
-  </div>
-</div>
-<br>
-
-<div class="row">
-  <div class="large-6 columns">
-  	<img src="{{ site.url }}{{ site.baseurl }}/images/sarah.png" alt="Sarah">
-  </div>
-  <div class="large-6 columns">
-  	<b><a href="https://in.linkedin.com/in/sarah-donnelly-patel-b69aa01">Sarah</a></b> advises us on strategy and shapes financial plans for us and our startups. Sarah is from Boston, Massachusetts.
-  </div>
-</div>
-<br>
-
-<div class="row">
-  <div class="large-6 columns">
-  	<img src="{{ site.url }}{{ site.baseurl }}/images/archana.png" alt="Archana">
-  </div>
-  <div class="large-6 columns">
-  	<b><a href="https://in.linkedin.com/in/archana-prasad-5312531">Archana</a></b> founded Jaaga in 2009 and helps guide the vision for the organisation. Archana is from Bangalore, Karnataka.
-  </div>
-</div>
-<br>
 
 <div class="row">
   <div class="large-6 columns">
   	<img src="{{ site.url }}{{ site.baseurl }}/images/tej.png" alt="Tej">
   </div>
   <div class="large-6 columns">
-  	<b><a href="https://in.linkedin.com/in/tejpochiraju">Tej</a></b> sets the vision and strategy for the organisation and is spearheading our Sustain initiative. Tej is from Mumbai, Maharashtra.
+  	<b><a href="https://www.linkedin.com/in/tejpochiraju">Tej</a></b> founded Jaaga Sustain as micrograce back in 2012 for new product development in environmental sustainability for European SMEs. Tej leads evangelism and hardware development at Jaaga Sustain.
   </div>
 </div>
+<br>
+
+<div class="row">
+  <div class="large-6 columns">
+  	<img src="{{ site.url }}{{ site.baseurl }}/images/jay.png" alt="Jay">
+  </div>
+  <div class="large-6 columns">
+  	<b><a href="">Jay</a></b> helped co-found Jaaga Sustain and brings over 20 years of innovation and technology experience in leadership roles at large multinational companies. Jay acts as virtaul-CTO to all incubated ventures and leads product architecture at Jaaga Sustain.
+  </div>
+</div>
+<br>
+
+<div class="row">
+  <div class="large-6 columns">
+  	<img src="{{ site.url }}{{ site.baseurl }}/images/jai.png" alt="Jai">
+  </div>
+  <div class="large-6 columns">
+  	<b><a href="">Jai</a></b> brings much-needed financial acumen to Jaaga Sustain. He helps organisations express environmental impact in terms of economic value and vice versa. Jai acts as virtual-CFO to all incubated ventures.
+  </div>
+</div>
+<br>
+

@@ -2,16 +2,16 @@
   url: "/"
   side: left
 
-- title: "Cowork"
-  url: "/cowork/"
+- title: "Incubate"
+  url: "/incubate/"
   side: left
 
-- title: "Events"
-  url: "/events/"
+- title: "Consult"
+  url: "/consult/"
   side: left
 
-- title: "Sustain"
-  url: "/sustain/"
+- title: "Partner"
+  url: "/partner/"
   side: left
   
 - title: "About"
@@ -24,10 +24,6 @@
 
 - title: "Blog"
   url: "http://blog.jaagastartup.in"
-  side: right
-
-- title: "Gallery"
-  url: "http://gallery.jaagastartup.in"
   side: right
 
 - title: "Sign in"

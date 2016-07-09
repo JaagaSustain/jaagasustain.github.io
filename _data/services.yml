@@ -1,21 +1,14 @@
 - menu_name: "Services"
 
-- name: "Coworking"
-  url: "/cowork/"
-  title: "Coworking"
+- name: "Incubate"
+  url: "/incubate/"
+  title: "Incubate"
 
-- name: "Events"
-  url: "/events/"
-  title: "Events"
+- name: "Consult"
+  url: "/consult/"
+  title: "Consult"
 
-- name: "Sustain"
-  url: "/sustain/"
-  title: "Sustain"
+- name: "Partner"
+  url: "/partner/"
+  title: "Partner"
 
-- name: "Jobs"
-  url: "http://jobs.jaagastartup.in"
-  title: "Jobs at our startups"
-
-# - name: "Terms and Conditions"
-#   url: "/terms/"
-#   title: "Terms and Conditions"

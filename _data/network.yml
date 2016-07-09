@@ -1,5 +1,10 @@
 - menu_name: "Jaaga Universe"
 
+- name: "Jaaga Startup"
+  url: "http://jaagastartup.in/"
+  class: "sitemap-link"
+  title: "Collaborative working"
+
 - name: "Jaaga DNA"
   url: "http://jaaga.in/dna/"
   class: "sitemap-link"

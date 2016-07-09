@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline: "Header"
-title: "Jaaga Startup"
-teaser: "India's oldest collaborative coworking community"
+title: "Jaaga Sustain"
+teaser: "Building environmental sustainability through entrepreneurs"
 header:
 permalink: "/headers/"
 ---
