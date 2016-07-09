@@ -40,7 +40,7 @@ Applications with documented primary research will be preferred.
 
 Over and beyond the benefits mentioned above,
 
-- You will become part of our highly knowledgeable [coworking](/cowork/) community.
+- You will become part of a highly knowledgeable [coworking](/cowork/) community at Jaaga Startup.
 - You will have access to established vendors for accounting, banking, legal, design and technology needs.
 - Your will have free access to our hardware kitchen with 3D printers, electronic kits and other prototyping tools.
 - You will be able to implement prototype solutions at our city location or on an organic farm with our sister organisation, [Jaaga Study](http://jaaga.in/study/).
@@ -55,4 +55,4 @@ Over and beyond the benefits mentioned above,
 
 ---
 
-_The Sustain initiative builds on learnings from our design research project, [Project Sphere](http://projectsphere.jaagastartup.in)._
+_Sustain's incubation builds on learnings from our design research project, [Project Sphere](http://projectsphere.jaagastartup.in)._

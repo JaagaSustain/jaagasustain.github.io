@@ -10,8 +10,6 @@ permalink: "/contact/"
 - Email us at [**info@jaagasustain.in**](mailto:info@jaagasustain.in?Subject=Hello%20Jaaga%20Sustain%21)
 - Like us on [**Facebook**](https://www.facebook.com/JaagaStartup)
 - Follow us on [**Twitter**](https://twitter.com/JaagaStartup)
-- For our urban arts initiative, head over to [**Jaaga DNA**](http://jaaga.in/dna)
-- For our software skilling initiative, head over to [**Jaaga Study**](http://jaaga.in/study)
 
 ## Our Location
 Jaaga Startup
