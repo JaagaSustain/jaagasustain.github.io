@@ -22,7 +22,7 @@ widget2:
 widget3:
   title: "Partner"
   url: '/partner/'
-  image: partner-small.png
+  image: partner-small.jpg
   text: 'We partner with incubators, accelerators and other innovation centres and help them implement robust innovation management practices. We bring experience of helping mature over 50 early stage innovations.'
 
 # Use the call for action to show a button on the frontpage
