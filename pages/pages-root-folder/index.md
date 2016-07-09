@@ -47,6 +47,6 @@ homepage: true
 ---
 
 <div class="small-6 large-centered columns">
-	<h3 align="center">Solve problems that really matter.</h3>
+	<h3 align="center">Solve problems that matter</h3>
 </div>
 
