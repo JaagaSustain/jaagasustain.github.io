@@ -24,7 +24,7 @@ permalink: "/about/"
   	<img src="{{ site.url }}{{ site.baseurl }}/images/jay.jpg" alt="Jay">
   </div>
   <div class="large-6 columns">
-  	<b><a href="">Jay</a></b> helped co-found Jaaga Sustain and brings over 20 years of innovation and technology experience in leadership roles at large multinational companies. Jay acts as virtaul-CTO to all incubated ventures and leads product architecture at Jaaga Sustain.
+  	<b><a href="">Jay</a></b> helped co-found Jaaga Sustain and brings over 20 years of innovation and technology experience in leadership roles at large multinational companies. Jay acts as virtual-CTO to all incubated ventures and leads product architecture at Jaaga Sustain.
   </div>
 </div>
 <br>
@@ -34,7 +34,17 @@ permalink: "/about/"
   	<img src="{{ site.url }}{{ site.baseurl }}/images/jai.jpg" alt="Jai">
   </div>
   <div class="large-6 columns">
-  	<b><a href="">Jai</a></b> brings much-needed financial acumen to Jaaga Sustain. He helps organisations express environmental impact in terms of economic value and vice versa. Jai acts as virtual-CFO to all incubated ventures.
+  	<b><a href="">Jai</a></b> brings the necessary financial acumen to Jaaga Sustain. He helps organisations express environmental impact in terms of economic value and vice versa. Jai acts as virtual-CFO to all incubated ventures.
+  </div>
+</div>
+<br>
+
+<div class="row">
+  <div class="large-6 columns">
+  	<img src="{{ site.url }}{{ site.baseurl }}/images/jaaga-logo.png" alt="Jaaga">
+  </div>
+  <div class="large-6 columns">
+  	<b><a href="http://jaaga.in">Jaaga</a></b> started in 2009 as a common ground for activists, artists, designers and technologists. The transition from micrograce to Sustain was incubated at <a href="http://jaagastartup.in">Jaaga Startup</a> - one of three entities that make up Jaaga.
   </div>
 </div>
 <br>
