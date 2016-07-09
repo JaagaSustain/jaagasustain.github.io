@@ -9,7 +9,9 @@ permalink: "/about/"
 ## Focus
 At Jaaga Sustain we focus on environmental challenges that have an economic value and a potential solution in technology. We help take lab-proven solutions to market - see technology readiness level (TRL) chart below.
 
-![trl-sustain.png](Sustain TRL Focus)
+<div class="small-12 text-center columns">
+    <img src="http://jaagasustain.in/images/trl-sustain.png" alt="Sustain TRL Focus">
+</div>
 
 ## Our Team
 
