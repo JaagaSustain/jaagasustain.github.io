@@ -27,7 +27,7 @@ We are open to early stage initiatives seeking to use technology to create demon
 
 ## How
 
-Apply using this [application form](http://goo.gl/forms/DX7Gjp1vMr) or by clicking on the button above. Your application will be evaluated on the following criteria:
+Apply by clicking on the button above. Your application will be evaluated on the following criteria:
 
 - Innovation
 - Potential for impact at scale
