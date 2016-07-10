@@ -20,7 +20,7 @@ image:
 permalink: "/portfolio/backpart-moulding/"
 ---
 
-## Incubatee
+## Client
 ![Texon]({{ site.urlimg }}texon-logo.gif)
 
 ### Project scope
