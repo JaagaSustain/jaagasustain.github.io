@@ -15,7 +15,7 @@ At Jaaga Sustain we focus on environmental challenges that have an economic valu
 </div>
 
 ## Origins
-Launched in 2012, micrograce, focused on new product development for environmental sustainability for European SMEs. Five large, successful projects later, working with SMEs in India proved more elusive and hence we started working more closely with startups in India. Relaunched as Jaaga Sustain in early 2016, we take a fresh approach to incubation in India. We go beyond mentoring and provide real, hands-on support to our startups - leveraging our decades worth of product innovation expertise.
+Launched in 2012, micrograce focused on new product development for environmental sustainability for European SMEs. Five large, successful projects later, working with SMEs in India proved more elusive and hence we started working more closely with startups in India. Relaunched as Jaaga Sustain in early 2016, we take a fresh approach to incubation in India. We go beyond mentoring and provide real, hands-on support to our startups - leveraging our decades worth of product innovation expertise.
 
 ## Our Team
 
