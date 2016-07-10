@@ -17,8 +17,9 @@ image:
     title: bottles-1.jpg
     thumb: consult-small.png
     caption: Recycled Paper Bottles
----
 
+permalink: "/portfolio/livestock-RFID/"
+---
 
 
 

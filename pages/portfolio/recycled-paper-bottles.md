@@ -4,7 +4,7 @@ title: "Recycled Paper Bottles"
 meta_title: "Efficient Microwave Drying System"
 subheadline: ""
 teaser: ""
-permalink: "/paperbottles/"
+permalink: "/portfolio/recylced-paper-bottles/"
 ---
 
 ![Drying recycled paper bottles]({{ site.urlimg }}bottles-1.jpg)
