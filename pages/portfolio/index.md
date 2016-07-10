@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-published: true
+permalink: "/portfolio/"
 ---
 We have worked on 30+ products in the domains of sustainable engineering and efficient communications. Here's a partial list of the successful ones. Buy us a beer to learn more. Buy us two and we can talk about the less successful attempts!
 
