@@ -6,12 +6,16 @@ subheadline: ""
 teaser: ""
 permalink: "/about/"
 ---
+
 ## Focus
 At Jaaga Sustain we focus on environmental challenges that have an economic value and a potential solution in technology. We help take lab-proven solutions to market - see technology readiness level (TRL) chart below.
 
 <div class="small-12 text-center columns">
     <img src="http://jaagasustain.in/images/trl-sustain.png" alt="Sustain TRL Focus">
 </div>
+
+## Origins
+Launched in 2012, micrograce, focused on new product development for environmental sustainability for European SMEs. Five large, successful projects later, working with SMEs in India proved more elusive and hence we started working more closely with startups in India. Relaunched as Jaaga Sustain in early 2016, we take a fresh approach to incubation in India. We go beyond mentoring and provide real, hands-on support to our startups - leveraging our decades worth of product innovation expertise.
 
 ## Our Team
 
@@ -20,7 +24,7 @@ At Jaaga Sustain we focus on environmental challenges that have an economic valu
   	<img src="{{ site.url }}{{ site.baseurl }}/images/tej.png" alt="Tej">
   </div>
   <div class="large-6 columns">
-  	<b><a href="https://www.linkedin.com/in/tejpochiraju">Tej</a></b> founded Jaaga Sustain as micrograce back in 2012 for new product development in environmental sustainability for European SMEs. Tej leads evangelism and hardware development at Jaaga Sustain.
+  	<b><a href="https://www.linkedin.com/in/tejpochiraju">Tej</a></b> holds a PhD in wireless engineering and has worked extensively on wireless communication and efficient microwave processing of materials. Tej leads evangelism and hardware development at Jaaga Sustain.
   </div>
 </div>
 <br>
@@ -30,7 +34,7 @@ At Jaaga Sustain we focus on environmental challenges that have an economic valu
   	<img src="{{ site.url }}{{ site.baseurl }}/images/jay.jpg" alt="Jay">
   </div>
   <div class="large-6 columns">
-  	<b><a href="">Jay</a></b> helped co-found Jaaga Sustain and brings over 20 years of innovation and technology experience in leadership roles at large multinational companies. Jay acts as virtual-CTO to all incubated ventures and leads product architecture at Jaaga Sustain.
+  	<b><a href="">Jay</a></b> brings over 20 years of innovation and technology experience in leadership roles at large multinational companies. Jay acts as virtual-CTO to all incubated ventures and leads product architecture at Jaaga Sustain.
   </div>
 </div>
 <br>
