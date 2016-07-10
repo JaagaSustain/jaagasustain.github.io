@@ -24,7 +24,7 @@ permalink: "/portfolio/rural-bio-digesters/"
 ![Sustain Earth]({{ site.urlimg }}sustainearth-logo.jpg)
 
 ### Project scope
-Sustain Earth develop and deploy efficient bio-digesters suitable for small farmers. These generate up to 4 hours of cooking gas and 45 kilos of bio-slurry every day. They wanted to develop means of measuring gas output from bio-digester so that monetisation can be based on gas usage rather than sales of bio-digester.
+[Sustain Earth](http://sustainearth.in) develop and deploy efficient bio-digesters suitable for small farmers. These generate up to 4 hours of cooking gas and 45 kilos of bio-slurry every day. They wanted to develop means of measuring gas output from bio-digester so that monetisation can be based on gas usage rather than sales of bio-digester.
 
 ### Project Innovations
 - We trained and worked closely with a Sustain Earth intern to develop a timer run on the same power circuit as the bio-digester

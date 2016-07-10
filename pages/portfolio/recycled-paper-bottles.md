@@ -24,7 +24,7 @@ permalink: "/portfolio/recycled-paper-bottles/"
 ![NiBek]({{ site.urlimg }}nibek-logo.png)
 
 ### Project scope
-Implement a microwave drying system to completely dry 40 recycled paper bottles a minute. Each injection moulded bottle has 50g of paper and 100g of water before drying. Post drying this reduces to around 4g of water. The alternatives to microwave drying - traditional convective heaters and passive drying via storage - take anywhere from 20 minutes to 12 hours.
+[NiBek](http://nibek.com) had developed a novel method of injection moulding 40 bottles a minute from recycled paper. However, traditional drying methods such as convective drying and passive storage based solutions take anywhere from 20 minutes to 12 hours per bottle. We were brought on to design and implement a continuous microwave drying system that could keep up with the moulding stations. Each injection moulded bottle has 50g of paper and 100g of water before drying. Post drying this reduces to around 4g of water.
 
 ### Project Innovations
 - We created a high microwave density tunnel system that efficiently and rapidly vapourises up to 4L of water a minute.
@@ -34,5 +34,4 @@ Implement a microwave drying system to completely dry 40 recycled paper bottles 
 ### Status
 - Two of these systems have been sold to multinational brands in UK and Switzerland.
 - We are partnering with NiBek to evaluate application of such systems in other areas such as food processing.
-
 
