@@ -1,13 +1,24 @@
 ---
 layout: page
-title: "Recycled Paper Bottles"
-meta_title: "Efficient Microwave Drying System"
-subheadline: ""
+#
+# Content
+#
+title: "Recycled paper bottles"
 teaser: ""
-permalink: "/portfolio/recylced-paper-bottles/"
----
+categories:
+  -
+tags:
+  -
+#
+# Styling
+#
+image:
+    title: bottles-1.jpg
+    thumb: consult-small.png
+    caption: Rapid, efficient microwave drying
 
-![Drying recycled paper bottles]({{ site.urlimg }}bottles-1.jpg)
+permalink: "/portfolio/recycled-paper-bottles/"
+---
 
 ## Client
 ![NiBek]({{ site.urlimg }}nibek-logo.png)
