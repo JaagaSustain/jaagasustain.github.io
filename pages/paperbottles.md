@@ -7,10 +7,10 @@ teaser: ""
 permalink: "/paperbottles/"
 ---
 
-![Drying recycled paper bottles](bottles-1.jpg)
+![Drying recycled paper bottles]({{ site.urlimg }}bottles-1.jpg)
 
 ## Client
-![NiBek](nibek-logo.png)
+![NiBek]({{ site.urlimg }}nibek-logo.png)
 
 ### Project scope
 Implement a microwave drying system to completely dry 40 recycled paper bottles a minute. Each injection moulded bottle has 50g of paper and 100g of water before drying. Post drying this reduces to around 4g of water. The alternatives to microwave drying - traditional convective heaters and passive drying via storage - take anywhere from 20 minutes to 12 hours.
