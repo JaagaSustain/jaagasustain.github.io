@@ -33,5 +33,5 @@ Design and deploy a livestock RFID tag that offers longer range (2-3m) than trad
 
 ### Status
 - Successful trials in a number of countries including Australia, France and Ireland
-- Redesigning the tags for other livestock such as cattle and novel research applications such as honeybees
+- Redesigning the tags for other livestock such as cattle and novel research applications such as studying pollination patterns of honeybees
 
