@@ -14,6 +14,23 @@
   url: "/partner/"
   side: left
   
+- title: "Portfolio"
+  url: "/portfolio/"
+  side: left
+  dropdown:
+  - title: "Recycled Paper Bottles"
+    url: "/portfolio/recycled-paper-bottles/"
+  - title: "Livestock RFID"
+    url: "/portfolio/livestock-RFID/"
+  - title: "Shoe Backpart moulding"
+    url: "/portfolio/backpart-moulding/"
+  - title: "Rural bio-digesters"
+    url: "/portfolio/bio-digesters/"
+  - title: "Ballast Water Treatment"
+    url: "/portfolio/intelligent-water-treatment/"
+  - title: "Microwave Flood Remediation"
+    url: "/portfolio/microwave-flood-remediation/"
+
 - title: "About"
   url: "/about/"
   side: left
