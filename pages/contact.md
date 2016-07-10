@@ -7,15 +7,11 @@ teaser: ""
 permalink: "/contact/"
 ---
 
-- Email us at [**info@jaagasustain.in**](mailto:info@jaagasustain.in?Subject=Hello%20Jaaga%20Sustain%21)
-- Like us on [**Facebook**](https://www.facebook.com/JaagaStartup)
-- Follow us on [**Twitter**](https://twitter.com/JaagaStartup)
+Email us at [**info@jaagasustain.in**](mailto:info@jaagasustain.in?Subject=Hello%20Jaaga%20Sustain%21)
 
 ## Our Location
-Jaaga Startup
-PH1, Sixth Floor, Rich Homes
-5/1 Richmond Road
-Bangalore - 560025
+We are co-located with Jaaga Startup at PH1, Sixth Floor, Rich Homes, 5/1 Richmond Road, Bangalore - 560025
+
 [Google maps link](https://goo.gl/maps/pfCoZAT3kXA2)
 
 **Closest bus stops are Richmond Road/Baldwin Girls School and Residency Road/Bangalore Club (both less than 5 minutes walk away). Closest metro stations are MG Road and Cubbon Park (both about 15 minutes walk away).**
