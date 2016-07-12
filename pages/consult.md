@@ -7,5 +7,14 @@ teaser: ""
 permalink: "/consult/"
 ---
 
->_Eventually everything connects – people, ideas, objects. The quality of the connections is the key to quality per se._
-<cite>Charles Eames</cite>
+If there's impact and innovation to be had we do a bunch of things for our clients:
+
+- Problem identification through research
+- Concept development and feasibility analysis
+- Design and co-development of new products and processes
+- Modeling and simulations of complex physical processes
+- Whitepapers on industry trends and new technologies
+- Setting up corporate-startup collaborations
+- Regular support to CTOs/CIOs
+
+##Please see our [Portfolio](/portfolio/) for examples.
