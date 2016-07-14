@@ -9,7 +9,7 @@ permalink: "/incubate/"
 
 Jaaga Sustain incubates entrepreneurs using technology to address environmental challenges. The program offers:
 
-- Free [coworking space](/cowork/) for 3 months and then reviewed as per progress
+- Free [coworking space](http://jaagastartup.in/cowork/) for 3 months and then reviewed as per progress
 - Access to mentors with expertise in sustainability, design, technology and finance
 - Access to partners who can help you reach your impact goals through fundraising and scaling
 
@@ -40,7 +40,7 @@ Applications with documented primary research will be preferred.
 
 Over and beyond the benefits mentioned above,
 
-- You will become part of a highly knowledgeable [coworking](/cowork/) community at Jaaga Startup.
+- You will become part of a highly knowledgeable [coworking](http://jaagastartup.in/cowork/) community at Jaaga Startup.
 - You will have access to established vendors for accounting, banking, legal, design and technology needs.
 - Your will have free access to our hardware kitchen with 3D printers, electronic kits and other prototyping tools.
 - You will be able to implement prototype solutions at our city location or on an organic farm with our sister organisation, [Jaaga Study](http://jaaga.in/study/).
