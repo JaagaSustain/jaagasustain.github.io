@@ -13,7 +13,7 @@
 - title: "Partner"
   url: "/partner/"
   side: left
-  
+
 - title: "Portfolio"
   url: "/portfolio/"
   side: left
@@ -28,6 +28,10 @@
     url: "/portfolio/rural-bio-digesters/"
   - title: "IoT Enabled Urban Gardening"
     url: "/portfolio/urban-gardening-iot/"
+
+- title: "IP"
+  url: "/ip/"
+  side: left
 
 - title: "About"
   url: "/about/"
@@ -44,4 +48,3 @@
 - title: "Sign in"
   url: "http://community.jaagasustain.in"
   side: right
-
