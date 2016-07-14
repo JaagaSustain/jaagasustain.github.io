@@ -44,7 +44,7 @@ Launched in 2012, micrograce focused on new product development for environmenta
   	<img src="{{ site.url }}{{ site.baseurl }}/images/jai.jpg" alt="Jai">
   </div>
   <div class="large-6 columns">
-  	<b><a href="">Jai</a></b> brings the necessary financial acumen to Jaaga Sustain. He helps organisations express environmental impact in terms of economic value and vice versa. Jai acts as virtual-CFO to all incubated ventures.
+  	<b><a href="https://in.linkedin.com/in/jai-sharda-6955b316">Jai</a></b> brings the necessary financial acumen to Jaaga Sustain. He helps organisations express environmental impact in terms of economic value and vice versa. Jai acts as virtual-CFO to all incubated ventures.
   </div>
 </div>
 <br>
@@ -58,4 +58,3 @@ Launched in 2012, micrograce focused on new product development for environmenta
   </div>
 </div>
 <br>
-
