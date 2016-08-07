@@ -7,14 +7,18 @@ teaser: ""
 permalink: "/consult/"
 ---
 
-If there's impact and innovation to be had we do a bunch of things for our clients:
+Our consulting business works closely with SMEs and LEs seeking innovations for sustainable businesses. Applying the same lean principles that underpin our incubation business allows us to rapidly prototype solutions and scale from there. We will be there through the journey -
 
-- Problem identification through research
-- Concept development and feasibility analysis
-- Design and co-development of new products and processes
-- Modeling and simulations of complex physical processes
-- Whitepapers on industry trends and new technologies
+- Primary research to define and validate the problem statement
+- Ideation to identify potential solutions
+- Collaborative design and rapid prototyping of selected solutions
+- Testing and analysis of prototype in the real world
+- Setting up appropriate supply chains to scale successful prototypes
+
+In addition we help by
+
+- Delivering regular whitepapers on industry trends and new technologies
 - Setting up corporate-startup collaborations
-- Regular support to CTOs/CIOs
+- Supporting your in-house CTO and CIO
 
-## Please see our [Portfolio](/portfolio/) for examples.
+## Please see our [Portfolio](/portfolio/) for examples of our work.

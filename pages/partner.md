@@ -7,9 +7,9 @@ teaser: ""
 permalink: "/partner/"
 ---
 
-We are just launching our partners initiative where we will be working closely with fellow incubators, accelerators and other bodies to support their innovation practices. We have refined our program at our sister organisation, [Jaaga Startup](http://jaagastartup.in), over the last 2 years and look forward to working closely with you too.
+We are just launching our partners initiative where we will be working closely with fellow incubators, accelerators and others in the innovation space. We have refined our program at our sister organisation, [Jaaga Startup](http://jaagastartup.in), over the last 2 years and look forward to working closely with you too.
 
-## Please write to us at info@jaagasustain.in if interested.
+## Please write to us at hello@jaagasustain.in if interested.
 ---
 
 >_Eventually everything connects – people, ideas, objects. The quality of the connections is the key to quality per se._
