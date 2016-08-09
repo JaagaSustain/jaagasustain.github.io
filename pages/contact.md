@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/contact/"
 ---
 
-Email us at [**hello@jaagasustain.in**](mailto:info@jaagasustain.in?Subject=Hello%20Jaaga%20Sustain%21)
+Email us at [**hello@jaagasustain.in**](mailto:hello@jaagasustain.in?Subject=Hello%20Jaaga%20Sustain%21)
 
 ## Our Location
 We are co-located with Jaaga Startup at PH1, Sixth Floor, Rich Homes, 5/1 Richmond Road, Bangalore - 560025
