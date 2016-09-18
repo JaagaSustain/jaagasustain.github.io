@@ -11,6 +11,7 @@ Jaaga Sustain builds on primary research carried out with 33 stakeholders as par
 
 ## Process
 We followed a user-centred design research process formulated by our design expert, [Shaona Sen](https://in.linkedin.com/in/shaonasen). The process took in stages of:
+
 - Stakeholder identification and interviews per a pre-defined questionnaire
 - Visual synthesis
 - Stakeholder workshop
@@ -18,11 +19,11 @@ We followed a user-centred design research process formulated by our design expe
 
 ## Design Challenge
 1. How might we identify Bangalore’s socio-environmental needs? 
-- What is the role of entrepreneurs in addressing these local needs?
-- How might we understand the current resources available for entrepreneurs in the socio-environmental space to reach their goals?
-- How might we assess the need of entrepreneurs in the socio-environmental space to work in a collaborative space?
-- How might we trace the overlap of specific socio-environmental issues entrepreneurs are addressing?
-- Based on the outcome of points 1–5, how might Jaaga best identify, assess and strengthen entrepreneurs in the socio-environmental space through a collaborative platform?
+1. What is the role of entrepreneurs in addressing these local needs?
+1. How might we understand the current resources available for entrepreneurs in the socio-environmental space to reach their goals?
+1. How might we assess the need of entrepreneurs in the socio-environmental space to work in a collaborative space?
+1. How might we trace the overlap of specific socio-environmental issues entrepreneurs are addressing?
+1. Based on the outcome of points 1–5, how might Jaaga best identify, assess and strengthen entrepreneurs in the socio-environmental space through a collaborative platform?
 
 
 ## Stakeholders
