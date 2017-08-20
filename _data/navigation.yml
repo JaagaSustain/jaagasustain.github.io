@@ -10,10 +10,6 @@
   url: "/consult/"
   side: left
 
-- title: "Partner"
-  url: "/partner/"
-  side: left
-
 - title: "Portfolio"
   url: "/portfolio/"
   side: left
