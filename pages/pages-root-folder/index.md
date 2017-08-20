@@ -19,11 +19,6 @@ widget2:
   url: '/consult/'
   image: consult-small.png
   text: 'We develop innovative products and processes to help realise a more sustainable world. Get in touch to find out how we can help you reduce your environmental impact while gaining economic value.'
-widget3:
-  title: "Partner"
-  url: '/partner/'
-  image: partner-small.png
-  text: 'We partner with incubators, accelerators and other innovation centres and help them implement robust innovation management practices. We bring experience of helping mature over 50 early stage innovations.'
 
 # Use the call for action to show a button on the frontpage
 #

@@ -17,7 +17,3 @@ We needed a long range, safety-enabled wireless link that did not operate on 2.4
 
 Having achieved 12km range at 868MHz we are beginning to explore other applications in long range, safe communications especially in oil and gas. [Get in touch](/contact/) for a demo or for further consultation.
 
-## Ultra-miniature RFID
-How do you track the pollination patterns of honeybees? Traditional methods include radar techniques that can reliably track only one bee at a time. We are designing an RFID system that weighs <100mg and can be mounted on an insect that weighs less than 500mg. This will allow us to track thousands of bees simultaneously.
-
-This work (in progress), based on a request from a UK based agri-research organisation, builds on our success with livestock RFID systems but goes well beyond what is possible with off-the-shelf RFID solutions.
